@@ -3,6 +3,9 @@
 
 ## In this project we have implemented LeNet-5 as a Binary Deep Neural Network, synthesized and verified the design using Vivado HLS
 
+### LeNet-5
+![LeNet-5](https://cdn-images-1.medium.com/max/800/1*lvvWF48t7cyRWqct13eU0w.jpeg)
+
 Final Results (for inference on 100 images):
 
 | ------------- | Utilization      | Timing (ns)     | Latency (ms) |
