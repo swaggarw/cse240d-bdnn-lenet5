@@ -37,6 +37,7 @@ In order to perform Synthesis:
 
 - hls-nn-lib/ - Contains the header libraries for BNN implementation
 - mnist.t/ - Contains dataset file for MNIST
+- ArbitrateCompute_100imgs_1PE_3ns.html: Synthesis results for 1 PE system for 100 images
 - ArbitrateCompute_100imgs_2PE_3ns.html: Synthesis results for 2 PE system for 100 images
 - Makefile: Makefile to compile your testbench for accuracy calculation. Export your Vivado library path as $XILINX_VIVADO variable before running this.
 - loader.h: loader helper libraries to load the MNIST dataset
